@@ -1,0 +1,1 @@
+Neste projeto, numa equipa de 2 membros, desenvolvemos um jogo de estratégia por turnos, jogado por equipas, consistindo por um mapa com bunkers e jogadores. O jogo é jogado alternando entre diferentes equipas, cada equipa com múltiplos jogadores. O objetivo do jogo é eliminar a outra equipa sem ser eliminado. Foi desenvolvido em Java.
